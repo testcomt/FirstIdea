@@ -25,11 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AppSwing.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AppSwing.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/example/firstidea/AppSwing.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-525">
-              <caret line="36" column="31" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
+            <state relative-caret-position="1968">
+              <caret line="87" column="30" selection-start-line="87" selection-start-column="30" selection-end-line="87" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -37,7 +37,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AppSwing.form" pinned="false" current-in-tab="false">
+      <file leaf-file-name="AppSwing.form" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/example/firstidea/AppSwing.form">
           <provider selected="true" editor-type-id="ui-designer">
             <state />
@@ -83,8 +83,8 @@
         <option value="$PROJECT_DIR$/FirstIdea.iml" />
         <option value="$PROJECT_DIR$/src/com/example/firstidea/AutoScore.java" />
         <option value="$PROJECT_DIR$/src/com/example/firstidea/FirstIdea.java" />
-        <option value="$PROJECT_DIR$/src/com/example/firstidea/AppSwing.form" />
         <option value="$PROJECT_DIR$/src/com/example/firstidea/AppSwing.java" />
+        <option value="$PROJECT_DIR$/src/com/example/firstidea/AppSwing.form" />
       </list>
     </option>
   </component>
@@ -224,6 +224,7 @@
     <property name="LombokPluginIS_LOMBOK_VERSION_CHECK_Enabled" value="true" />
     <property name="SearchEverywhereHistoryKey" value="build.gradle&#9;null&#9;null" />
     <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="173" />
+    <property name="extract.method.default.visibility" value="private" />
   </component>
   <component name="RunManager" selected="Application.FirstIdea">
     <configuration default="false" name="FirstIdea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -869,11 +870,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/firstidea/AppSwing.form">
-      <provider selected="true" editor-type-id="ui-designer">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/firstidea/FirstIdea.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
@@ -884,12 +880,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/firstidea/AppSwing.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-525">
-          <caret line="36" column="31" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
+        <state relative-caret-position="1968">
+          <caret line="87" column="30" selection-start-line="87" selection-start-column="30" selection-end-line="87" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/firstidea/AppSwing.form">
+      <provider selected="true" editor-type-id="ui-designer">
+        <state />
       </provider>
     </entry>
   </component>

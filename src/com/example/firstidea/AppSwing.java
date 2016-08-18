@@ -8,7 +8,7 @@ import java.awt.event.ActionListener;
  * Created by taixiaomei on 8/18/16.
  */
 public class AppSwing {
-    public JButton ButtonItem;
+    public JButton buttonItem;
     public JPanel panelMain;
     private JLabel lblA;
     private JLabel lblOp;
@@ -19,9 +19,9 @@ public class AppSwing {
 
     public AppSwing() {
 
+        init();
 
-
-        ButtonItem.addActionListener(new ActionListener() {
+        buttonItem.addActionListener(new ActionListener() {
 
             @Override
             public void actionPerformed(ActionEvent e) {
@@ -67,6 +67,18 @@ public class AppSwing {
 
             }
         });
+    }
+
+    private void init() {
+        //panelMain.setLayout(null);
+        panelMain.setSize(380,380);
+        panelMain.setVisible(true);
+        buttonItem.setBounds(36,96,98,26);
+        buttonJudge.setBounds(216,96,94,25);
+        lblA.setBounds(36,24,36,36);
+        lblOp.setBounds(72,24,36,36);
+        lblB.setBounds(108,24,33,36);
+        textAnswer.setBounds(216,24,85,42);
     }
 
     public static void main(String[] args) {
