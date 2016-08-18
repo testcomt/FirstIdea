@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c37ae6a8-b9f6-45c4-aefa-3e0c2405a534" name="Default" comment="" />
+    <list default="true" id="c37ae6a8-b9f6-45c4-aefa-3e0c2405a534" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="FirstIdea.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -48,8 +50,10 @@
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1471489738000" expanded="true" signature="39155:39243" ph="..." />
-                <marker date="1471489738000" expanded="true" signature="39155:39228" ph="..." />
+                <marker date="1471509738000" expanded="true" signature="59:43642" ph="..." />
+                <marker date="1471509738000" expanded="true" signature="98:192" ph="..." />
+                <marker date="1471509738000" expanded="true" signature="41855:41918" ph="..." />
+                <marker date="1471509738000" expanded="true" signature="41855:41903" ph="..." />
               </folding>
             </state>
           </provider>
@@ -85,7 +89,27 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="myManifest.man" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/firstidea/myManifest.man">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="modificationStamps">
@@ -102,6 +126,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/FirstIdea.iml" />
+        <option value="$PROJECT_DIR$/src/com/example/firstidea/AutoScore.java" />
+        <option value="$PROJECT_DIR$/src/com/example/firstidea/FirstIdea.java" />
       </list>
     </option>
   </component>
@@ -134,7 +160,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="1" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -495,7 +521,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="46" y="23" width="1394" height="877" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -556,8 +582,10 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1471489738000" expanded="true" signature="39155:39243" ph="..." />
-            <marker date="1471489738000" expanded="true" signature="39155:39228" ph="..." />
+            <marker date="1471509738000" expanded="true" signature="59:43642" ph="..." />
+            <marker date="1471509738000" expanded="true" signature="98:192" ph="..." />
+            <marker date="1471509738000" expanded="true" signature="41855:41918" ph="..." />
+            <marker date="1471509738000" expanded="true" signature="41855:41903" ph="..." />
           </folding>
         </state>
       </provider>
@@ -615,8 +643,10 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1471489738000" expanded="true" signature="39155:39243" ph="..." />
-            <marker date="1471489738000" expanded="true" signature="39155:39228" ph="..." />
+            <marker date="1471509738000" expanded="true" signature="59:43642" ph="..." />
+            <marker date="1471509738000" expanded="true" signature="98:192" ph="..." />
+            <marker date="1471509738000" expanded="true" signature="41855:41918" ph="..." />
+            <marker date="1471509738000" expanded="true" signature="41855:41903" ph="..." />
           </folding>
         </state>
       </provider>
@@ -666,8 +696,10 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1471489738000" expanded="true" signature="39155:39243" ph="..." />
-            <marker date="1471489738000" expanded="true" signature="39155:39228" ph="..." />
+            <marker date="1471509738000" expanded="true" signature="59:43642" ph="..." />
+            <marker date="1471509738000" expanded="true" signature="98:192" ph="..." />
+            <marker date="1471509738000" expanded="true" signature="41855:41918" ph="..." />
+            <marker date="1471509738000" expanded="true" signature="41855:41903" ph="..." />
           </folding>
         </state>
       </provider>
@@ -725,17 +757,11 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1471489738000" expanded="true" signature="39155:39243" ph="..." />
-            <marker date="1471489738000" expanded="true" signature="39155:39228" ph="..." />
+            <marker date="1471509738000" expanded="true" signature="59:43642" ph="..." />
+            <marker date="1471509738000" expanded="true" signature="98:192" ph="..." />
+            <marker date="1471509738000" expanded="true" signature="41855:41918" ph="..." />
+            <marker date="1471509738000" expanded="true" signature="41855:41903" ph="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/firstidea/FirstIdea.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -751,6 +777,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/firstidea/myManifest.man">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/firstidea/AutoScore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/firstidea/FirstIdea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>

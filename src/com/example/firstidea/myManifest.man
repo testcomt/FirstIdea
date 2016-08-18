@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Created-By: Xiaomei
+Main-Class: com.example.firstidea.FirstIdea
